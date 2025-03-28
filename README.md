@@ -1,6 +1,6 @@
 # 📚 KodeKloud : [Red Hat Certified System Administrator (RHCSA)](https://learn.kodekloud.com/courses/red-hat-certified-system-administrator-rhcsa?autoplay=true)
 
-Dans le cadre de mon apprentissage continu, je me prépare activement à obtenir la certification **Red Hat Certified System Administrator (RHCSA)**. Ce cours est conçu pour acquérir les compétences essentielles nécessaires à l'administration des systèmes **Red Hat Enterprise Linux** (RHEL), une distribution incontournable dans le monde de l'entreprise.
+Dans le cadre de mon apprentissage, je me prépare activement à obtenir la certification **Red Hat Certified System Administrator (RHCSA)**. Ce cours est conçu pour acquérir les compétences essentielles nécessaires à l'administration des systèmes **Red Hat Enterprise Linux** (RHEL), une distribution linux incontournable dans le monde de l'entreprise.
 
 ## 🛠 Compétences
 
